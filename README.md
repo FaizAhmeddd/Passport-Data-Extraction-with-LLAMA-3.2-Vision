@@ -43,16 +43,16 @@ Follow these steps to set up and run the project locally:
    cd Passport-Data-Extraction-with-LLAMA-3.2-Vision
 
 2. **Make Virtual Environment**:
-
+    ```bash
     python -m venv env
     source env/bin/activate  # On Windows, use 'env\Scripts\activate'
 
 3. **Install Dependencies**:
-
+    ```bash
     pip install -r requirements.txt
 
 4. **Run Streamlit App**:
-
+    ```bash
     streamlit run app.py
 
 
