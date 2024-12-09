@@ -55,19 +55,6 @@ Follow these steps to set up and run the project locally:
     ```bash
     streamlit run app.py
 
-
-### Project Structure
-
-📦 Passport-Data-Extraction-with-LLAMA-3.2-Vision
-├── app.py                     # Main Streamlit application
-├── README.md                  # Project documentation
-├── requirements.txt           # Required Python libraries
-└── images/                    # (Optional) Store sample passport images
-
-
-
-
-
 ### **What’s Included in This README:**
 - Comprehensive setup instructions, including Python version, virtual environment setup, and dependencies.
 - Clear steps for using the application with screenshots if needed later.
